@@ -1,4 +1,5 @@
 package com.company;
 
-public class Main_Screen {
+public class Main_Screen
+{
 }
